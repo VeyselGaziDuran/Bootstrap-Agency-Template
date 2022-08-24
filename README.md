@@ -1,1 +1,1 @@
-https://git.heroku.com/vege-1.git
+git.heroku.com/vege-1.git
