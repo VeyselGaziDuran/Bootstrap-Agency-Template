@@ -1,4 +1,4 @@
-#Bootstrap Project
+#Bootstrap Agency Template
 
 
 
